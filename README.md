@@ -1,0 +1,1 @@
+# Applied-NLP--Ex.6---Implementation-of-Parts-of-Speech-tagging-Completion-requirements
